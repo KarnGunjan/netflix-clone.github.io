@@ -1,0 +1,22 @@
+.main-div {
+  background-color: black;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 9px;
+  height: 73vh;
+}
+.mobile {
+  background-image: url("/src/Resources/mobile-0819.jpg");
+  height: 496px;
+  width: 593px;
+  margin-left: 141px;
+}
+.sec-div {
+  font-size: 29px;
+  width: 562px;
+  color: white;
+  font-weight: bolder;
+  /* margin: 126px 0px 126px 126px; */
+  font-family: math;
+}

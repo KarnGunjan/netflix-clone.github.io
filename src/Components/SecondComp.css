@@ -1,0 +1,22 @@
+.main-div {
+  background-color: black;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 9px;
+  height: 73vh;
+}
+.first-div {
+  font-size: 29px;
+  width: 562px;
+  color: white;
+  font-weight: bolder;
+  margin: 126px 0px 126px 126px;
+  font-family: math;
+}
+.tv {
+  background-image: url("/src/Resources/tv.png");
+  height: 420px;
+  width: 571px;
+  background-size: cover;
+}
